@@ -1,0 +1,24 @@
+{
+	"title" : "Experience",
+	"experience" : [
+		{
+			"timeperiod" : "June 2017 - Present",
+			"company" : "IITGN",
+			"description" : "Resposnsibilties to develop websites on wordpress & other frameworks, troubleshooting & testing software and project on Google Scripting languages. "
+		}
+	],
+
+	"title2" : "Internship",
+	"internships" : [
+		{
+			"timeperiod" : "May 2015 - July 2015",
+			"company" : "IITGN",
+			"description" : "Responsibilites to tourbleshoot the Windows and Linux Computer systems and installation of specific softwares."
+		},
+		{
+			"timeperiod" : "May 2016 - June 2016",
+			"company" : "4Dea",
+			"description" : "Responsibilities to develop Android application which can share files and images to another same app installed mobile devices at specified storage location based on project requirement."
+		}
+	]
+}

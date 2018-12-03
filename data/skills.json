@@ -1,0 +1,9 @@
+{
+	"title" : "Skills",
+	"skills" : {
+		"Wordpress" : "90",
+		"Android app" : "60",
+		"Web Development" : "75",
+		"Software Testing" : "80"
+	}
+}

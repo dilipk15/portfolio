@@ -1,0 +1,15 @@
+{
+	"title" : "Services",
+	"services" : [
+		{
+			"icon" : "pencil-ruler",
+			"title" : "Web Development",
+			"description" : "Website development on wordpress, static site generator framework, HTML5 templates. "
+		},
+		{
+			"icon" : "pen-nib",
+			"title" : "Android Application",
+			"description" : "We design Android application based on latest technology and framesworks. "
+		}
+	]
+}
